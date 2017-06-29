@@ -1,1 +1,2 @@
 Nějaký text
+Přidaný text z mého fork repo

@@ -1,1 +1,3 @@
-Text v druhém dokumentu
+Text v dokumentu
+
+další přidaný text
